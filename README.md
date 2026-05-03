@@ -1,8 +1,4 @@
-from weasyprint import HTML
-import base64
 
-# Contenido del README.md en formato de bloque de código Markdown para el PDF
-markdown_content = """
 # 🏋️ FitLife - Gestión de Gimnasio (Cloud)
 
 Este apartado del proyecto corresponde al módulo de **Fundamentos de Computación en la Nube**. El objetivo es proponer una arquitectura profesional, sencilla y analizar su viabilidad económica.
